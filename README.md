@@ -42,12 +42,12 @@ This hands-on lab demonstrates the deployment of a **fully functional PrestaShop
 
 ## Full Documentation
 📄 **Complete Lab Report (PDF)**  
-[Open / View Full Report (PDF)](https://raw.githubusercontent.com/yourusername/prestashop-aws-free-tier/main/docs/PrestaShop-AWS-Free-Tier-Full-Report.pdf)  
+[Open / View Full Report (PDF)](https://github.com/cybervee-tech/AWS-prestashop-deployment/blob/main/Project%20Title_%20Deploying%20a%20Fully%20Functional%20PrestaShop%20Store%20on%20AWS%20Free%20Tier%20with%20Separate%20Application%20and%20Database%20Servers%20(1).pdf)  
 
-*(Replace `yourusername` with your GitHub username and upload the original PDF to the `docs/` folder)*
+
 
 ## Screenshots (Visual Evidence)
-All 14 high-resolution screenshots are available in the [`screenshots/`](./screenshots/) folder:
+All 14 high-resolution screenshots are available in the [`screenshots/`](https://github.com/cybervee-tech/AWS-prestashop-deployment/blob/main/Project%20Title_%20Deploying%20a%20Fully%20Functional%20PrestaShop%20Store%20on%20AWS%20Free%20Tier%20with%20Separate%20Application%20and%20Database%20Servers%20(1).pdf) folder:
 
 1. EC2 instance launch  
 2. Security group & key pair configuration  
